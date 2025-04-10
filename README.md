@@ -11,7 +11,7 @@ This project is an **IoT-based Health Monitoring System** that measures **heart 
 - **(Optional)** Sends data to a cloud platform (e.g., **Thingspeak, Blynk**) using **ESP8266 WiFi Module**.
 
 ## Components Required
-- **Arduino Uno**
+- **Rasberry Pi**
 - **Pulse Sensor**
 - **LM35 Temperature Sensor**
 - **16x2 LCD Display with I2C Module**
